@@ -1,0 +1,9 @@
+FieldAware's marketing site, http://www.fieldaware.com, has a navigation bar. When a user hovers over some of these buttons, a popup sub-menu is displayed, with links to other areas of the website.
+
+In order to ensure a high-quality user experience, we want to test that the navigation bar buttons are displayed when visiting the site and, when one hovers over a button, the sub-menu appears with the correct links. See the images below with highlighted areas-of-interest.
+ 
+As this is a repetitive task, and our marketing website is regularly updated, we would like to have these tests automated, in whatever manner you see fit. It is of the highest-priority that, at the very least, the navigation widget and sub-menu buttons/links are displayed. If the tests ensure that these buttons and links appear in the correct order, that is even better. If you can deliver a working prototype that I can run on my machine with minimal setup required, that is better again!
+As the time allotted for you to deliver a prototype is limited, we would also like you to deliver a brief analysis of your work:
+In your opinion, using a percentage value, how complete is your prototype judged by your own standards ( e.g. "The tests are 75% complete, as I did not do XYZ..." )
+What improvements, if given more time, would you make to your prototype? ( e.g. "Given a day to work on this further, I would add feature X because..." )
+What areas, if any, proved difficult, and why?
